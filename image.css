@@ -1,0 +1,172 @@
+html,body
+{
+    height:100%;
+        width:100%;
+}
+
+.header a:hover
+{
+color:black;
+}
+
+#intro
+{
+background:url(image.jpg) no-repeat fixed;
+height:100%;
+    width:100%;
+    
+-webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+
+
+.jumbotron
+{
+
+background:transparent;
+
+}
+
+ p
+{
+color:grey;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:100%;
+
+text-align:center;
+
+
+}
+
+
+#img
+{
+ background:url(zeb.jpg) no-repeat ; 
+ 
+     -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    position:absolute;
+    margin-bottom: 50px;
+    
+}
+
+
+
+
+
+
+#aboutme
+{
+ color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:125%;
+padding-top:25px;
+    
+}
+
+#synopsis
+{
+    
+ color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:125%;
+padding-top:25px;
+       
+    
+    
+}
+
+.modal-content
+{
+color:grey;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:100%;
+
+text-align:center;
+
+
+
+}
+
+
+h4
+{
+  color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+    font-size:105%;
+}
+
+
+
+#academics
+{
+
+
+color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:125%;
+padding-top:250px;
+    
+
+}
+
+
+
+
+
+
+#projects
+{
+color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:125%;
+padding-top:200px;
+
+}
+
+#work
+{
+    color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:125%;
+ padding-top:200px;   
+    
+
+}
+
+#item
+{
+  color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:125%;
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+#contact
+{
+ color:black;
+font-family:'Montserrat','trebuchet MS',sans-serif;
+font-size:125%;
+ padding-top:1000px;
+
+}
+
+
+.pad-center
+{
+   padding:50px;. 
+}
